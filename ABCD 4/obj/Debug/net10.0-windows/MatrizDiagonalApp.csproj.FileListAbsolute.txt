@@ -1,0 +1,15 @@
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\bin\Debug\net10.0-windows\MatrizDiagonalApp.exe
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\bin\Debug\net10.0-windows\MatrizDiagonalApp.deps.json
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\bin\Debug\net10.0-windows\MatrizDiagonalApp.runtimeconfig.json
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\bin\Debug\net10.0-windows\MatrizDiagonalApp.dll
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\bin\Debug\net10.0-windows\MatrizDiagonalApp.pdb
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.AssemblyInfoInputs.cache
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.AssemblyInfo.cs
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.csproj.CoreCompileInputs.cache
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.sourcelink.json
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.dll
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\refint\MatrizDiagonalApp.dll
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.pdb
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\MatrizDiagonalApp.genruntimeconfig.cache
+C:\Users\mende\tarea-equipo-2-con-danijuliobiktoralecs\ABCD 4\obj\Debug\net10.0-windows\ref\MatrizDiagonalApp.dll
